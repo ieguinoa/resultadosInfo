@@ -1,0 +1,50 @@
+
+          -------------------------------------------------------
+          Amber 14 SANDER                              2014
+          -------------------------------------------------------
+
+| Run on 10/21/2014 at 10:56:33
+
+|   Executable path: sander
+| Working directory: /home/tati/pr
+|          Hostname: Unknown
+  [-O]verwriting output
+
+File Assignments:
+|  MDIN: input.mdin                                                            
+| MDOUT: salida                                                                
+|INPCRD: dosActualizado.rst7                                                   
+|  PARM: dosNuevo.prmtop                                                       
+|RESTRT: restrt                                                                
+|  REFC: refc                                                                  
+| MDVEL: mdvel                                                                 
+| MDFRC: mdfrc                                                                 
+|  MDEN: mden                                                                  
+| MDCRD: mdcrd                                                                 
+|MDINFO: mdinfo                                                                
+|  MTMD: mtmd                                                                  
+|INPDIP: inpdip                                                                
+|RSTDIP: rstdip                                                                
+|INPTRA: inptraj                                                               
+
+
+ Here is the input file:
+
+n MD 200ps                                                                     
+ &cntrl                                                                        
+  imin=0,irest=1,ntx=5,igb=0,                                                  
+  nstlim=1,dt=0.001,                                                           
+  ntb=0,                                                                       
+  ntwx=1, ntwr=1,ntpr=1,                                                       
+  ntt=1, tautp=2.0,                                                            
+  temp0 = 100.0,                                                               
+  cut=19,                                                                      
+  nscm=0,                                                                      
+ /                                                                             
+
+--------------------------------------------------------------------------------
+   1.  RESOURCE   USE: 
+--------------------------------------------------------------------------------
+
+| Flags:                                                                        
+|    NONPERIODIC   ntb=0 and igb=0: Setting up nonperiodic simulation

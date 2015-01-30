@@ -1,0 +1,404 @@
+limites  0.3 - 15
+
+tabla:
+
+ STEP = 10000
+ VDWAALS = -3.9660753411626501475
+
+ Total Kinetic Energy(t) = 71.637753501427880565
+
+ Diferencia energia total= 0.00014588361950984563009
+ Temp(t) = 99.998667893934239714
+
+
+
+derivative:
+ STEP = 10000
+ VDWAALS = -3.3296361090495474322
+
+ Total Kinetic Energy(t) = 54.249960227046010175
+
+ Diferencia energia total= -17.909302963780881157
+ Temp(t) = 75.727161878343736134
+
+
+*******************************
+
+
+mismos limites pero usando  rposta:
+
+
+derivative:  da igual
+
+
+
+
+
+************************
+
+usando limites entre 0.3 y 20:
+
+
+DERIVATIVE:
+
+
+ STEP = 10000
+ VDWAALS = -2.4963439336199262364
+
+ Total Kinetic Energy(t) = 68.663161815014404965
+
+ Diferencia energia total= -2.6630429200681078328
+ Temp(t) = 95.846454966657134378
+
+
+
+
+
+TABLA(sin rposta):
+
+STEP = 10000
+ VDWAALS = -2.8036368784751175554
+
+ Total Kinetic Energy(t) = 71.462032113087360585
+
+ Diferencia energia total= 0.00025503422257600050216
+ Temp(t) = 99.75337956626250957
+
+
+
+
+******************************************
+
+limites entre 0.3 y 30:
+
+
+TABLA(sin rposta):
+
+ STEP = 10000
+ VDWAALS = -2.3615455222210925967
+
+ Total Kinetic Energy(t) = 71.183911448938133049
+
+ Diferencia energia total= 0.00053780613255582920829
+ Temp(t) = 99.365152764480612291
+
+
+
+
+
+
+DERIVATIVE:
+
+STEP = 10000
+ VDWAALS = -2.8362657192038187581
+
+ Total Kinetic Energy(t) = 71.525811195423628419
+
+ Diferencia energia total= -0.14034719721060184838
+ Temp(t) = 99.842408366879453752
+
+
+
+
+
+**********************************
+
+limites entre 0.3 y 25:
+
+
+derivative:
+
+ STEP = 10000
+ VDWAALS = -2.6358150539418452318
+
+ Total Kinetic Energy(t) = 70.926311447744467387
+
+ Diferencia energia total= -0.53939164076159329397
+ Temp(t) = 99.005570620851159447
+
+
+
+
+tabla:
+
+ STEP = 10000
+ VDWAALS = -2.4247284473310628528
+
+ Total Kinetic Energy(t) = 71.22056766002465622
+
+ Diferencia energia total= 0.00037861613502343516302
+ Temp(t) = 99.416320927907435134
+
+**************************************************
+
+
+limites 0.7-25
+
+TABLA:
+
+
+ STEP = 10000
+ VDWAALS = -2.4508414012798311887
+
+ Total Kinetic Energy(t) = 71.246658273983712206
+
+ Diferencia energia total= 0.00035391735653433897824
+ Temp(t) = 99.45274064394988045
+
+
+
+
+
+
+
+DERIVATIVE:
+
+
+ STEP = 10000
+ VDWAALS = -2.6427447871068241447
+
+ Total Kinetic Energy(t) = 70.933247404368060529
+
+ Diferencia energia total= -0.53938533063151794522
+ Temp(t) = 99.015252476981885366
+
+
+
+
+
+
+
+
+
+*****************
+
+limites  3 - 35
+
+
+
+derivative:
+
+ STEP = 10000
+ VDWAALS = -2.4055959615570015053
+
+ Total Kinetic Energy(t) = 71.192157947409640428
+
+ Diferencia energia total= -0.043331629948966110533
+ Temp(t) = 99.376663997338070544
+
+
+
+limites 3 - 45
+
+ STEP = 10000
+ VDWAALS = -2.3942714093822221599
+
+ Total Kinetic Energy(t) = 71.218441323499845907
+
+ Diferencia energia total= -0.0057240612366626919538
+ Temp(t) = 99.413352788768747814
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ STEP = 10000
+ VDWAALS = -2.3058938339884620383
+
+ Total Kinetic Energy(t) = 71.135583191696724725
+
+ Diferencia energia total= -0.00020473903224171863258
+ Temp(t) = 99.29769166876549491
+
+
+ STEP = 10000
+ VDWAALS = -2.3198893755633838154
+
+ Total Kinetic Energy(t) = 71.149568881251781249
+
+ Diferencia energia total= -0.00021459243961885476892
+ Temp(t) = 99.317214200625116405
+
+
+
+
+
+
+***********************************************
+
+
+
+limites 3 - 90
+
+
+ STEP = 10000
+ VDWAALS = -2.3088618251194152897
+
+ Total Kinetic Energy(t) = 71.138760393920122738
+
+ Diferencia energia total= 4.4683200997042149538e-06
+ Temp(t) = 99.302126704405779378
+
+
+
+
+****************************************************
+
+
+limites 3 - 120
+
+
+PASO 0 ********
+
+STEP = 0
+ VDWAALS = -9.1982102133278047518
+
+ Total Kinetic Energy(t) = 78.028104405269871791
+
+ Diferencia energia total= 0
+
+
+paso 500k
+
+ STEP = 500000
+ VDWAALS = -1.217445067010962001
+
+ Total Kinetic Energy(t) = 70.047141133561666493
+
+ Diferencia energia total= -0.00019812539134989037848
+ Temp(t) = 97.778342574561023071
+
+
+
+
+*************************************************
+
+limites 3 - 200
+
+
+ STEP = 0
+ VDWAALS = -9.1982102133278047518
+
+ Total Kinetic Energy(t) = 78.028103975243908508
+
+ Diferencia energia total= 0
+
+
+
+
+ STEP = 10000
+ VDWAALS = -2.3403021615747570117
+
+ Total Kinetic Energy(t) = 71.170244976447222029
+
+ Diferencia energia total= 4.9052956356376853364e-05
+ Temp(t) = 99.346075825616622978
+
+
+
+
+STEP = 500000
+ VDWAALS = -1.4101320069006069158
+
+ Total Kinetic Energy(t) = 70.240075628732995483
+
+ Diferencia energia total= 4.9859916273931048636e-05
+ Temp(t) = 98.047658564593248798
+
+
+
+
+
+
+
+****************************************************
+
+
+tabla hasta 400
+
+ STEP = 10000
+ VDWAALS = -2.2809799806552653045
+
+ Total Kinetic Energy(t) = 71.113115216265143204
+
+ Diferencia energia total= 0.0022492236197422244004
+ Temp(t) = 99.266328769963990908
+
+
+ STEP = 0
+ VDWAALS = -9.1982102133278047518
+
+ Total Kinetic Energy(t) = 78.028096225317938206
+
+ Diferencia energia total= 0
+ Temp(t) = 108.91890517862189824
+
+
+
+ STEP = 1000000
+ VDWAALS = -0.97602113775908938553
+
+ Total Kinetic Energy(t) = 69.80825536562346656
+
+ Diferencia energia total= 0.0023482158742353931302
+ Temp(t) = 97.444883505773162824
+
+
+************************
+
+textura 65k
+
+ STEP = 100000
+ VDWAALS = -1.2493094550516650187
+
+ Total Kinetic Energy(t) = 70.081188995714541079
+
+ Diferencia energia total= 0.001997561385380208776
+ Temp(t) = 97.825869760904964778
+
+
+
+textura de 120k
+ STEP = 100000
+ VDWAALS = -1.3848352115578930199
+
+ Total Kinetic Energy(t) = 70.215304144099661698
+
+ Diferencia energia total= 0.00057690806092125512805
+ Temp(t) = 98.013080212481199283
+
+
+
+
+textura de 200k
+
+ STEP = 100000
+ VDWAALS = -1.2162924090603279836
+
+ Total Kinetic Energy(t) = 70.046478897518341
+
+ Diferencia energia total= 0.00029290429601758205536
+ Temp(t) = 97.77741816363344185
+
+
+
+analitic
+
+ STEP = 100000
+ VDWAALS = -1.4735333297473929282
+
+ Total Kinetic Energy(t) = 70.303451054704524381
+
+ Diferencia energia total= 2.3602232928965349856e-05
+ Temp(t) = 98.136123903951457237
+

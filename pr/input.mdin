@@ -1,0 +1,11 @@
+n MD 200ps
+ &cntrl
+  imin=0,irest=1,ntx=5,igb=0,
+  nstlim=1,dt=0.001,
+  ntb=0,
+  ntwx=1, ntwr=1,ntpr=1,
+  ntt=1, tautp=2.0,
+  temp0 = 100.0,
+  cut=19,
+  nscm=0,
+ /
